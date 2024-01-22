@@ -1,0 +1,132 @@
+body {
+  background-color: black;
+  font-family: "DM Sans", sans-serif;
+}
+
+h1 {
+  color: white;
+}
+
+.sidebar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  padding: 12px;
+  width: 300px;
+}
+
+.sidebar__navigation {
+  background-color: #121212;
+  border-radius: 8px;
+  padding: 10px 10px 10px 10px;
+  margin: 0px 0px 16px 0px;
+}
+
+.sidebar__navigation .logo {
+  background: #121212;
+  display: flex;
+  border-radius: 8px;
+  padding: 16px 0px 0px 16px;
+}
+
+.sidebar__navigation .logo img {
+  width: 80px;
+}
+
+.sidebar nav ul {
+  margin-top: 20px;
+  padding: 0px 20px 10px 20px;
+}
+
+.sidebar ul li {
+  padding: 10px 0;
+}
+
+.sidebar nav ul li a {
+  color: #b3b3b3;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 14px;
+}
+
+.titulo {
+  display: flex;
+  justify-items: center;
+  align-items: center;
+  padding: 10px 10px 0px 10px;
+}
+
+.titulo span {
+  font-weight: bolder;
+  font-size: 16px;
+  color: #b3b3b3;
+}
+
+.biblioteca {
+  margin: 0px 0px 0px 10px;
+}
+
+.sidebar__navigation .titulo .plus {
+  margin-left: auto;
+}
+
+.sidebar__navigation .conteudo {
+  background: #b3b3b31a;
+  border-radius: 8px;
+  color: white;
+  padding: 15px 15px;
+  margin: 20px 0px 0px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+}
+
+.sidebar__navigation .conteudo h3 {
+  font-weight: bolder;
+  font-size: 15px;
+}
+
+.sidebar__navigation .conteudo p {
+  font-size: small;
+  font-weight: 400;
+}
+
+.sidebar__navigation .conteudo .playlist-button {
+  background-color: white;
+  border-radius: 20px;
+  border: none;
+  color: black;
+  font-weight: 700;
+  font-size: 14px;
+  padding: 8px 10px;
+  margin: 15px 0px 0px 0px;
+}
+
+.sidebar__navigation .conteudo .playlist-button:hover {
+  cursor: pointer;
+}
+
+.sidebar__navigation a p {
+  margin: 30px 20px;
+  color: #b3b3b3;
+  font-size: 12px;
+}
+
+.sidebar__navigation a {
+  text-decoration: none;
+}
+
+.sidebar__navigation .lingua {
+  background-color: rgba(0, 0, 0, 0);
+  border: solid 1px #b3b3b3;
+  border-radius: 20px;
+  color: aliceblue;
+  font-weight: bold;
+  padding: 5px 10px;
+}
+
+.sidebar__navigation .lingua:hover {
+  cursor: pointer;
+}
