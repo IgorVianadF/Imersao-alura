@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="./src/assets/styles/reset.css" />
     <link rel="stylesheet" href="./src/assets/styles/vars.css" />
     <link rel="stylesheet" href="./src/assets/styles/sidebar-footer.css" />
+    <link rel="stylesheet" href="./src/assets/styles/main-content.css" />
     <link
       rel="shortcut icon"
       href="./src/assets/icons/favicon.png"
@@ -81,5 +82,51 @@
         </div>
       </div>
     </div>
+
+    <!--Conteúdo principal-->
+    <main>
+      <div class="main-container">
+        <nav class="header__navigation">
+          <div class="navigation">
+            <button class="arrow-left">
+              <img
+                src="./src/assets/icons/small-left.png"
+                alt="Seta esquerda"
+              />
+            </button>
+            <button class="arrow-right">
+              <img
+                src="./src/assets/icons/small-right.png"
+                alt="Seta direita"
+              />
+            </button>
+          </div>
+          <div class="header__search">
+            <img src="./src/assets/icons/search.png" alt="#" />
+            <input
+              type="text"
+              placeholder="O que você quer ouvir?"
+              id="search-input"
+              maxlength="800"
+            />
+          </div>
+          <div class="header__login">
+            <button class="subscribe">Inscreva-se</button>
+            <button class="login">Entrar</button>
+          </div>
+        </nav>
+      </div>
+    </main>
+
+    <footer>
+      <div class="footer__text">
+        <span>TESTAR O PREMIUM DE GRAÇA</span>
+        <p>
+          Inscreva-se para curtir música ilimitada e podcasts só com alguns
+          anúncios. Não precisa de cartão de crédito.
+        </p>
+      </div>
+      <button class="footer-button">Inscreva-se grátis</button>
+    </footer>
   </body>
 </html>

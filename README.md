@@ -20,11 +20,11 @@ Durante as aulas iremos criar, aos poucos, uma réplica da front-page do spotify
 ### Dia 2 (23/01): Estilo Avançado e Posicionamento: Transformando Layouts
 
 :ballot_box_with_check: Aula
-:black_square_button: Desafio
+:ballot_box_with_check: Desafio
 
-### Dia 3 (24/01):
+### Dia 3 (24/01): Layout Flexbox, Pseudo-classes e Responsividade em CSS
 
-:black_square_button: Aula
+:ballot_box_with_check: Aula
 :black_square_button: Desafio
 
 ### Dia 4 (25/01):
