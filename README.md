@@ -12,6 +12,8 @@ Durante as aulas iremos criar, aos poucos, uma réplica da front-page do spotify
 
 ## Andamento do projeto
 
+<p style="text-align:center; background-color: green; font-weight:bold;box-shadow: inset 0 0 3px black;text-shadow: 0 0 1.7px white;"> Em andamento </p>
+
 ### Dia 1 (22/01): Revisão: HTML, CSS e JS na Prática
 
 :ballot_box_with_check: Aula
@@ -25,11 +27,11 @@ Durante as aulas iremos criar, aos poucos, uma réplica da front-page do spotify
 ### Dia 3 (24/01): Layout Flexbox, Pseudo-classes e Responsividade em CSS
 
 :ballot_box_with_check: Aula
-:black_square_button: Desafio
+:ballot_box_with_check: Desafio
 
-### Dia 4 (25/01):
+### Dia 4 (25/01): CSS Grid, Media Queries e Manipulação do DOM com JavaScript
 
-:black_square_button: Aula
+:ballot_box_with_check: Aula
 :black_square_button: Desafio
 
 ### Dia 5 (26/01):
