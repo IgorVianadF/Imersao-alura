@@ -12,7 +12,7 @@ Durante as aulas iremos criar, aos poucos, uma réplica da front-page do spotify
 
 ## Andamento do projeto
 
-<p style="text-align:center; background-color: green; font-weight:bold;box-shadow: inset 0 0 3px black;text-shadow: 0 0 1.7px white;"> Em andamento </p>
+<h4 style="text-align:center;"> Em andamento </h4>
 
 ### Dia 1 (22/01): Revisão: HTML, CSS e JS na Prática
 
